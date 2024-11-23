@@ -9,8 +9,6 @@
 🔗 Other Skills
 - Data Structures
 
----
-
 ## 🚀 Tech Expertise
 ✨ I enjoy solving problems and developing software that makes life easier. My expertise lies in:
 
