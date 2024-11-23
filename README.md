@@ -1,4 +1,4 @@
-IT Student | Aspiring Developer
+🎓 IT Student | Aspiring Developer
 
 ## 🛠 Skills
 ### Programming Languages
