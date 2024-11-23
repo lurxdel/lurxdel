@@ -2,11 +2,11 @@
 🌟 Passionate about learning and building impactful projects
 
 ## 🛠 Skills
-💻 Programming Languages
+### 💻 Programming Languages
 - HTML | CSS | PHP | Python | C | Java
-📊 Databases
+### 📊 Databases
 - MySQLi | SQL
-🔗 Other Skills
+### 🔗 Other Skills
 - Data Structures
 
 ## 🚀 Tech Expertise
