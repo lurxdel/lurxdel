@@ -1,16 +1,27 @@
-## Hi there 👋
+🎓 IT Student | Aspiring Developer
+🌟 Passionate about learning and building impactful projects
 
-<!--
-**lurxdel/lurxdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+💻 Programming Languages
+- HTML | CSS | PHP | Python | C | Java
+📊 Databases
+- MySQLi | SQL
+🔗 Other Skills
+- Data Structures
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Expertise
+✨ I enjoy solving problems and developing software that makes life easier. My expertise lies in:
+
+- Crafting dynamic web applications
+- Exploring data structures and their real-world applications
+- Building database-driven applications
+
+## ❤️ Support Me
+If you like my work or find it helpful, you can support me by:
+
+- Giving ⭐️ to my repositories
+- Following me on GitHub
+- Sharing ideas or projects to collaborate on
+💌 Let’s connect and create amazing things together!
