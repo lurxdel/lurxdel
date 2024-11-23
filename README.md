@@ -2,8 +2,7 @@ IT Student | Aspiring Developer
 
 ## 🛠 Skills
 ### Programming Languages
-- HTML | CSS | PHP | Python | C | Java
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 ### Databases
 - MySQLi | SQL
 ### Other Skills
@@ -14,3 +13,6 @@ IT Student | Aspiring Developer
 - Giving ⭐️ to my repositories
 - Following me on GitHub
 - Sharing ideas or projects to collaborate on
+
+
+![Luredel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lurxdel\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
