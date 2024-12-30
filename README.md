@@ -16,11 +16,6 @@
 </div><br>
 
 
-## Support Me By
-![Give Star](https://img.shields.io/badge/Give%20⭐️-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
-![Collaborate](https://img.shields.io/badge/Collaborate-6CC24A?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
 ### GitHub Stats
 <div>
   <a href="https://github.com/lurxdel">
