@@ -22,7 +22,7 @@
 </div>
 
 
-### Give me a Follow
+### Give Me A Follow
 <p>
   <a href="https://github.com/lurxdel"><img width="30px" src="./github.svg" alt="GitHub"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/lurxdel"><img width="30px" src="./instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
