@@ -14,7 +14,7 @@
 ![Collaborate](https://img.shields.io/badge/Collaborate-6CC24A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-## GitHub Stats
+### GitHub Stats
 <div>
   <a href="https://github.com/lurxdel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurxdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
