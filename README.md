@@ -11,8 +11,20 @@
 
 ## Support Me By
 ![Give Star](https://img.shields.io/badge/Give%20⭐️-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
-![Follow](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Collaborate](https://img.shields.io/badge/Collaborate-6CC24A?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Follow
+<p>
+  <a href="https://github.com/lurxdel"><img width="30px" src="./github.svg" alt="GitHub"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/lurxdel"><img width="30px" src="./instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/dulangon.luredel"><img width="30px" src="./facebook.svg" alt="Facebook"></a>
+</p>
+
+
+
 ## GitHub Stats
-![Luredel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lurxdel\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+<div>
+  <a href="https://github.com/lurxdel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurxdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurxdel&layout=compact&langs_count=7&theme=tokyonight">
+</div>
