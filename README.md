@@ -1,3 +1,5 @@
+Hi, I'm a student currently pursuing an IT course. Interested about **innovation**, **emerging technologies**, **graphic design**, **networking**, and exploring how technology shapes our world.
+
 # Tech Skills  
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
