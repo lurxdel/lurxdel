@@ -1,4 +1,4 @@
-<a><img src="https://github.com/user-attachments/assets/6b26a523-978a-4ff3-87d1-1974dad7cd57" align="right" height="160" width="180"></a>
+<a><img src="https://github.com/user-attachments/assets/d2ad9b95-71b1-4cb8-aff6-bba34cc56f4d" align="right" height="140" width="240"></a>
 Hi, I'm a student currently pursuing an IT course. Interested about **innovation**, <br>**emerging technologies**, **graphic design**, **networking**, and exploring how technology <br>shapes our world.<br><br>
 
 # Tech Skills  
