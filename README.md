@@ -1,4 +1,9 @@
-Hi, I'm a student currently pursuing an IT course. Interested about **innovation**, **emerging technologies**, **graphic design**, **networking**, and exploring how technology shapes our world.
+<div style="display: inline_block"><br>
+  <p>Hi, I'm a student currently pursuing an IT course. Interested about 
+    <b>innovation</b>, <b>emerging technologies</b>, <b>graphic design</b>, <b>networking</b>, and exploring how technology shapes our world.</p>
+  <img align="right"  height="120" alt="gif_screen" width="150" src="https://github.com/user-attachments/assets/6b26a523-978a-4ff3-87d1-1974dad7cd57">
+</div>
+
 
 # Tech Skills  
 <div style="display: inline_block">
