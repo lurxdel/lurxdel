@@ -32,7 +32,7 @@ Hi, I'm a student currently pursuing an IT course. Interested about **innovation
 ### GitHub Stats
 <div>
   <a href="https://github.com/lurxdel">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=lurxdel&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurxdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurxdel&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
