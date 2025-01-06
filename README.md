@@ -1,5 +1,5 @@
 <a><img src="https://github.com/user-attachments/assets/fb25af9b-990a-4dbd-9f40-eb00f037c8ea" align="right" height="140" width="250"></a>
-Hi, I'm a student currently pursuing an IT course. Interested about **innovation**, <br>**emerging technologies**, **graphic design**, **networking** and exploring how <br> technology shapes  our world.<br><br>
+Hi, I'm a student currently studying an IT course. Interested about **innovation**, <br>**emerging technologies**, **graphic design**, **networking** and exploring how <br> technology shapes  our world.<br><br>
 
 # Tech Skills  
 <div style="display: inline_block">
