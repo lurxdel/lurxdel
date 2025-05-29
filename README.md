@@ -1,11 +1,7 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    Hi, I'm a student currently studying an IT course. I'm interested in <b>innovation</b>, <b>emerging technologies</b>, <b>graphic design</b> and exploring how technology shapes our world.
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/fb25af9b-990a-4dbd-9f40-eb00f037c8ea" alt="GIF" width="250">
-  </div>
-</div>
+<div>
+  <img src="https://github.com/user-attachments/assets/fb25af9b-990a-4dbd-9f40-eb00f037c8ea" alt="GIF" align="right" width="250" style="margin-left: 10px;">
+  Hi, I'm a student currently studying an IT course. I'm interested in <b>innovation</b>, <b>emerging technologies</b>, <b>graphic design</b> and exploring how technology shapes our world.
+</div><br><br>
 
 
 # Tech Skills  
