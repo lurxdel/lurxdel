@@ -12,6 +12,8 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" height="30" width="30" src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000">
+  <img align="center" height="30" width="30" src="https://img.icons8.com/?size=100&id=eyShSycUjhR9&format=png&color=03c2fc">
 </div>
 
 
