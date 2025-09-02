@@ -18,8 +18,8 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
 
 
 ### GitHub Stats
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lurxdel&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurxdel&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lurxdel&theme=tokyonight&count_private=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurxdel&layout=compact&theme=tokyonight&count_private=true)</a>
 
 
 ### Socials
