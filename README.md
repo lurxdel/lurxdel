@@ -18,10 +18,8 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
 
 
 ### GitHub Stats
-<div>
   <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurxdel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=20"></a>
   <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurxdel&layout=compact&langs_count=7&theme=tokyonight&count_private=true"></a>
-</div>
 
 
 ### Socials
