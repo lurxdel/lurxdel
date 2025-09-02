@@ -3,18 +3,7 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
 
 
 # Tech Skills  
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/?size=100&id=eyShSycUjhR9&format=png&color=03c6fc">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,tailwind,html,css,bootstrap,git&theme=dark)](https://skillicons.dev)
 
 
 ### Databases  
@@ -25,15 +14,7 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
 
 
 ### Software
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-  <img align="center" height="30" width="30" src="https://img.icons8.com/?size=100&id=38664&format=png&color=20C997">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-</div><br>
+[![Software](https://skillicons.dev/icons?i=vscode,atom,sublime,raspberrypi,figma,ps&theme=dark)](https://skillicons.dev)
 
 
 ### GitHub Stats
