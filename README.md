@@ -1,4 +1,4 @@
-<a><img src="https://github.com/user-attachments/assets/fb25af9b-990a-4dbd-9f40-eb00f037c8ea" align="right" height="140" width="250"></a>
+<a><img src="https://cdna.artstation.com/p/assets/images/images/026/388/428/original/laura-costa-the-cat-v4-5.gif?1588650125" align="right" height="140" width="140"></a>
 Hi, I'm a student currently studying an IT course. Interested about **innovation**, <br>**emerging technologies**, **graphic design** and exploring how <br> technology shapes  our world.<br><br>
 
 
