@@ -3,7 +3,7 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
 
 
 # Tech Skills  
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,tailwind,html,css,bootstrap,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,tailwind,html,css,bootstrap,git)](https://skillicons.dev)
 
 
 ### Databases  
@@ -14,7 +14,7 @@ Hi, I'm a student currently studying an IT course. Interested about **innovation
 
 
 ### Software
-[![Software](https://skillicons.dev/icons?i=vscode,atom,sublime,raspberrypi,figma,ps&theme=dark)](https://skillicons.dev)
+[![Software](https://skillicons.dev/icons?i=vscode,atom,sublime,raspberrypi,figma,ps)](https://skillicons.dev)
 
 
 ### GitHub Stats
