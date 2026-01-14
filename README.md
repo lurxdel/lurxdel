@@ -1,20 +1,21 @@
 <a><img src="https://cdna.artstation.com/p/assets/images/images/026/388/428/original/laura-costa-the-cat-v4-5.gif?1588650125" align="right" height="140" width="140"></a>
-Hi, I'm a student currently studying an IT course. Interested about **innovation**, <br>**emerging technologies**, **graphic design** and exploring how <br> technology shapes  our world.<br><br>
+Hi, I'm a student currently studying an **IT course** specialized track **Database**. Interested about **innovation**, <br>**emerging technologies**, **graphic design** and exploring how <br> technology shapes  our world.<br><br>
 
 
 # Tech Skills  
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,tailwind,html,css,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,react,tailwind,html,css,bootstrap,git)](https://skillicons.dev)
 
 
 ### Databases  
 <div style="display: inline_block">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
 
 ### Software
-[![Software](https://skillicons.dev/icons?i=vscode,atom,sublime,raspberrypi,figma,ps)](https://skillicons.dev)
+[![Software](https://skillicons.dev/icons?i=vscode,androidstudio,atom,sublime,raspberrypi,figma,ps)](https://skillicons.dev)
 
 
 ### GitHub Stats
