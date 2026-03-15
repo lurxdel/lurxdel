@@ -1,5 +1,5 @@
 <a><img src="https://cdna.artstation.com/p/assets/images/images/026/388/428/original/laura-costa-the-cat-v4-5.gif?1588650125" align="right" height="140" width="140"></a>
-Hi, I'm a student currently studying an **IT course** specialized track **Database**. Interested about **innovation**, <br>**emerging technologies**, **graphic design** and exploring how <br> technology shapes  our world.<br><br>
+Hi, I'm a student currently studying an **IT course** specialized track **Database**. <br>Interested about **innovation**, **emerging technologies**, **graphic design** and <br> exploring how technology shapes  our world.<br><br>
 
 
 # Tech Skills  
@@ -21,6 +21,10 @@ Hi, I'm a student currently studying an **IT course** specialized track **Databa
 ### GitHub Stats
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lurxdel&theme=tokyonight&count_private=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lurxdel&layout=compact&theme=tokyonight&count_private=true)</a>
+
+
+### Donations
+[![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lurxdel)
 
 
 ### Socials
