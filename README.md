@@ -3,7 +3,7 @@ Hi, I'm a student currently studying an **IT course** specialized track **Databa
 
 
 # Tech Skills  
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,react,tailwind,html,css,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,php,laravel,react,django,javascript,tailwind,html,css,bootstrap,vercel,git)](https://skillicons.dev)
 
 
 ### Databases  
