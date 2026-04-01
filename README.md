@@ -1,4 +1,4 @@
-<a><img src="https://cdna.artstation.com/p/assets/images/images/026/388/428/original/laura-costa-the-cat-v4-5.gif?1588650125" align="right" height="140" width="140"></a>
+<a><img src="https://i.pinimg.com/originals/80/97/9c/80979ce697cede68fba1679f62f8237e.gif" align="right" height="140" width="auto"></a>
 Hi, I'm a student currently studying an **IT course** specialized track **Database**. <br>Interested about **innovation**, **emerging technologies**, **graphic design** and <br> exploring how technology shapes  our world.<br><br>
 
 
