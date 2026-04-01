@@ -1,4 +1,4 @@
-<a><img src="https://i.pinimg.com/originals/80/97/9c/80979ce697cede68fba1679f62f8237e.gif" align="right" height="140" width="auto"></a>
+<a><img src="https://i.pinimg.com/originals/80/97/9c/80979ce697cede68fba1679f62f8237e.gif" align="right" height="140" width="180"></a>
 Hi, I'm a student currently studying an **IT course** specialized track **Database**. <br>Interested about **innovation**, **emerging technologies**, **graphic design** and <br> exploring how technology shapes  our world.<br><br>
 
 
